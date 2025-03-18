@@ -76,15 +76,7 @@ This process is repeated for each bit position until the entire list is sorted.
 
 ## 📊 Performance Results
 
-| 📏 Number of Elements | ⚡ Maximum Operations |
-|----------------------|------------------|
-| 🎲 **3**            | **3**            |
-| 🎲 **4**            | **7**            |
-| 🎲 **5**            | **11**           |
-| 🎲 **100**          | **1084**         |
-| 🎲 **500**          | **6784**         |
-
-## ⚙️ Usage
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/dc0e95a6-896d-4473-a24c-114cb0540fa0" />
 
 ### 🛠️ Compilation
 
